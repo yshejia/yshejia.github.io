@@ -1,3 +1,21 @@
-104.16.61.155 image.tmdb.org
+#============api.themoviedb.org============
 13.35.67.86 api.themoviedb.org
+#============www.themoviedb.org============
+143.204.86.41 www.themoviedb.org
 54.192.151.79 www.themoviedb.org
+99.86.199.8 www.themoviedb.org
+143.204.86.108 www.themoviedb.org
+99.86.199.67 www.themoviedb.org
+#============image.tmdb.org============
+104.16.61.155 image.tmdb.org
+143.244.49.177 image.tmdb.org
+143.244.49.179 image.tmdb.org
+169.150.249.165 image.tmdb.org
+143.244.50.91 image.tmdb.org
+#============api.themoviedb.org============
+13.225.103.26 api.themoviedb.org
+65.8.164.20 api.themoviedb.org
+18.172.31.82 api.themoviedb.org
+13.225.103.45 api.themoviedb.org
+#============api.thetvdb.org============
+192.241.234.54 api.thetvdb.org
