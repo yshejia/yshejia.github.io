@@ -1,0 +1,3 @@
+104.16.61.155 image.tmdb.org
+13.35.67.86 api.themoviedb.org
+54.192.151.79 www.themoviedb.org
